@@ -1,0 +1,57 @@
+<?php
+
+return [
+    'task' => 'Zadatak',
+    'task_placeholder' => 'Unesite zadatak...',
+    'submit' => 'Pošalji',
+    'tasks' => 'Zadaci',
+    'dashboard' => 'Nadzorna ploča',
+    'profile' => 'Profil',
+    'logout' => 'Odjava',
+    'login' => 'Prijava',
+    'register' => 'Registracija',
+    'email' => 'E-mail',
+    'password' => 'Lozinka',
+
+    'admin' => 'Admin',
+    'teacher' => 'Profesor',
+    'student' => 'Učenik',
+    'role' => 'Uloga',
+    'assign_role' => 'Dodijeli ulogu',
+    'assign' => 'Dodijeli',
+    'users' => 'Korisnici',
+    'user' => 'Korisnik',
+    'roles' => 'Uloge',
+    'actions' => 'Akcije',
+    'edit' => 'Uredi',
+    'delete' => 'Obriši',
+    'assign_roles' => 'Dodijeli uloge',
+    'role_assigned_successfully' => 'Uloga uspješno dodijeljena.',
+    'only_admins_can_assign_roles' => 'Samo administratori mogu dodijeliti uloge.',
+    'user_id' => 'ID korisnika',
+    'role' => 'Uloga',
+    'task_created_successfully' => 'Zadatak uspješno kreiran.',
+    'task_deleted_successfully' => 'Zadatak uspješno obrisan.',
+    'task_updated_successfully' => 'Zadatak uspješno ažuriran.',
+    'task_not_found' => 'Zadatak nije pronađen.',
+    'task_id' => 'ID zadatka',
+    'update' => 'Ažuriraj',
+    'create' => 'Kreiraj',
+    'delete_task' => 'Obriši zadatak',
+    'edit_task' => 'Uredi zadatak',
+
+    'welcome' => 'Dobrodošli',
+    'welcome_message' => 'Dobrodošli na našu platformu za učenje!',
+    'welcome_message_description' => 'Ovdje možete pronaći zadatke koje su postavili profesori.',
+
+    'teacher_dashboard' => 'Nadzorna ploča profesora',
+
+    'strucni_rad' => 'Stručni radovi',
+    'preddiplomski_rad' => 'Preddiplomski radovi',
+    'diplomski_rad' => 'Diplomski radovi',
+
+    'title' => 'Naslov',
+    'study_type' => 'Vrsta studija',
+    
+    'title_en' => 'Naslov na engleskom',
+];
